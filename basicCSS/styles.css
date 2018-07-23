@@ -1,0 +1,85 @@
+@charset "UTF-8";
+/* CSS Document */
+
+h1 {
+	font-family: 'Alegreya Sans', sans-serif;
+	font-weight: 300;
+	font-size: 36px;
+}
+
+h2 {
+	text-align: left;
+	font-family: 'Alegreya Sans', sans-serif;
+	font-weight: 300;
+	font-size: 28px;
+	padding: 0 150px;
+}
+
+header {
+	float: left;
+}
+
+nav {
+	font-family: 'Alegreya Sans', sans-serif;
+	font-size: 20px;
+	float: right;
+	text-decoration: none;
+	padding: 30px 70px;
+}
+
+a:link {
+	color: #00336a;
+	font-weight: 100;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #f2b514;
+	font-weight: 400;
+}
+
+a:visited {
+	color: #00336a;
+}
+
+main {
+	text-align: center;
+	float: left;
+	font-size: 20px;
+	font-weight: 300;
+}
+
+p {
+	font-family: 'Alegreya Sans', sans-serif;
+	padding: 20px 90px;
+	text-align: left;
+}
+
+.column {
+	float: left;
+    width: 33.33%;
+}
+
+dt {
+	font-family: 'Alegreya Sans', sans-serif;
+	text-align: left;
+	padding: 0 150px;
+}
+
+dd {
+	font-family: 'Alegreya Sans', sans-serif;
+	text-align: left;
+	padding: 0 0 0 150px;
+}
+
+.art {
+	padding: 0 0 20px 70px;
+}
+
+footer {
+	text-align: center;
+	float: left;
+	font-style: oblique;
+	font-size: 16px;
+	font-weight: 400;
+}
