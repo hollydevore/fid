@@ -11,7 +11,7 @@ h2 {
 	text-align: left;
 	font-family: 'Alegreya Sans', sans-serif;
 	font-weight: 300;
-	font-size: 28px;
+	font-size: 30px;
 	padding: 0 150px;
 }
 
@@ -65,12 +65,14 @@ dt {
 	text-align: left;
 	font-size: 26px;
 	font-weight: 400;
-	padding: 10px 150px 10px 150px;
+	padding: 0 150px;
 }
 
 dd {
 	font-family: 'Alegreya Sans', sans-serif;
 	text-align: left;
+	font-size: 20px;
+	font-weight: 300;
 	padding: 0 0 0 150px;
 }
 
